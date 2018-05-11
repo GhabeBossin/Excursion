@@ -1,21 +1,19 @@
 body{
   background-color: black;
+  color: white;
+  text-align: center;
   font-family: 'Verdana', sans-serif;
 }
 
 h1{
   color: white;
   font-size: 50px;
+  font-weight: normal;
 }
 
-.dl{
+.download{
   color: Aquamarine;
   font-size: 16px;
-}
-
-header, main{
-  text-align: center;
-  font-weight: normal;
 }
 
 footer{
